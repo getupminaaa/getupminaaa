@@ -35,6 +35,4 @@
 
  [![lh99j's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=getupminaaa&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/getupminaaa)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 </div>
