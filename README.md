@@ -26,7 +26,7 @@
  
  
  
- #### <p align="center">My Coding Skill</p>
+ #### <p align="center">My Coding Skill</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=getupmina0405)](https://solved.ac/profile/getupmina0405/)
 
